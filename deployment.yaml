@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask
-        image: mahender397/jenkins-argocd-demo:1
+        image: mahender397/jenkins-argocd-demo:7
         ports:
         - containerPort: 5000
 
